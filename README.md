@@ -88,6 +88,7 @@ The HSTU Dynamic Bus Schedule System follows a client-server architecture with a
 - **Back-End Server**: A server that processes data from bus tracking systems, traffic information, and user requests, and serves real-time updates to the front-end.
 - **Database**: A relational database that stores bus schedules, route information, user profiles, and system logs.
 - **APIs**: The system integrates with external APIs for real-time traffic data, bus GPS tracking, and notification services.
+![UML_Edge](https://github.com/user-attachments/assets/31d0eb5a-72e0-419b-bd2c-5ba9f493831f)
 
 ## 7. Development Phases and Sprints
 
