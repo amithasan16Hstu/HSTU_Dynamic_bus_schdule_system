@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HSTU.png" alt="HSTU Logo" width="250" height="300">
+  <img src="hstu_logo_.png" alt="HSTU Logo" width="250" height="300">
 </p>
 <h1 align="center">
   <b> HSTU Dynamic Bus Schedule Generated System</b>
